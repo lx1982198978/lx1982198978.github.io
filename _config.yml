@@ -1,11 +1,11 @@
 # Site settings
 title: Glittering Blog
-SEOTitle: 百东的博客 | Glittering Blog
+SEOTitle: Shaun的博客 | Glittering Blog
 header-img: img/home-bg.jpg
-email: 13161231996@163.com
-description: "关于Python | 尹百东，Web & Python Lover，Software Engineer | 这里是 @baidong黄玄 的个人博客，与你一起探索Python的世界。"
-keyword: "百东, Glittering百东, Glittering, 鬼栈, huxpro, @huxpro, 百东的博客, Glittering Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://13161231996.github.io"              # your host, for absolute URL
+email: 1982198978@qq.com
+description: "小白成长为顶级编程高手的成长曲线"
+keyword: "Shaun, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://lx1982198978.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     13161231996
-zhihu_username:     huxpro
-github_username:    13161231996
-twitter_username:   huxpro
+weibo_username:     17611476810
+zhihu_username:     Shaun
+github_username:    17611476810	
+twitter_username:   Shaun
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
